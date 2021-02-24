@@ -1,0 +1,23 @@
+/* ------ CSS - HTML Canvas Particles - Interactive Wireframe Particles ------ */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#canvas1 {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(#ffc38c, #ff9b40);
+}
+h1 {
+    text-align: center;
+    font-family: 'Londrina Shadow', cursive; /* font-family: 'Roboto', sans-serif;  | font-family: 'Yellowtail', cursive;  | font-family: 'Flavors', cursive; | font-family: 'Coiny', cursive; | font-family: 'Poppins', sans-serif; | font-family: 'Londrina Shadow', cursive;  */
+    font-weight: 400;
+    font-size: 3.5rem;
+    color: black; /*  #fff6e0 | #ffecbd  */
+    text-shadow: 2px 3px 2px #b36f30;
+    filter: drop-shadow(-1px 6px 3px rgba(25, 36, 54, 0.5));
+}
+
